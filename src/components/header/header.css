@@ -1,0 +1,91 @@
+header {
+  height: 100vh;
+  padding-top: 7rem;
+  overflow: hidden;
+}
+
+.header___container {
+  text-align: center;
+  height: 100%;
+  position: relative;
+}
+
+/* CTA component which has the buttons */
+
+.cta {
+  margin-top: 2.5rem;
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+}
+
+/* Social */
+
+.header___social {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+  position: absolute;
+  left: 0;
+  bottom: 3rem;
+}
+
+.header___social::after {
+  content: '';
+  width: 1px;
+  height: 2rem;
+  background: var(--color-primary);
+}
+
+/* Image */
+
+.me {
+  background: linear-gradient(var(--color-primary), transparent);
+  width: 20rem;
+  height: 30rem;
+  position: absolute;
+  left: calc(50% - 10rem);
+  margin-top: 4rem;
+  border-radius: 12rem 12rem 0 0;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+/* Scroll Down */
+
+.scroll___down {
+  position: absolute;
+  bottom: 5rem;
+  right: -2.3rem;
+  transform: rotate(90deg);
+  font-weight: 300;
+  font-size: 0.9rem;
+}
+
+/* MEDIA QUERY MEDIUM SCREENS */
+
+@media screen and (max-width: 1024px) {
+  header {
+    height: 68vh;
+  }
+  .me {
+    height: 25rem;
+    overflow: hidden;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header {
+    height: 100vh;
+  }
+
+  .header___social,
+  .scroll___down {
+    display: none;
+  }
+  .me {
+    height: 25rem;
+    overflow: hidden;
+  }
+}
