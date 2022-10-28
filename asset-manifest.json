@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Abdulrahman-Muhammad/static/css/main.aee26ee8.css",
+    "main.js": "/Abdulrahman-Muhammad/static/js/main.6d5f9564.js",
+    "static/media/Abood.png": "/Abdulrahman-Muhammad/static/media/Abood.214259f85c32be9de8f2.png",
+    "static/media/Abood123.png": "/Abdulrahman-Muhammad/static/media/Abood123.3023350a7fb5a1d21d06.png",
+    "static/media/portfolio5.png": "/Abdulrahman-Muhammad/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/AbdulrahmanCv.pdf": "/Abdulrahman-Muhammad/static/media/AbdulrahmanCv.4399500a063f6071463a.pdf",
+    "static/media/portfolio2.jpg": "/Abdulrahman-Muhammad/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/p1.jpg": "/Abdulrahman-Muhammad/static/media/p1.16dd9efebf63cf66c5ab.jpg",
+    "static/media/portfolio6.jpg": "/Abdulrahman-Muhammad/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/p4.jpg": "/Abdulrahman-Muhammad/static/media/p4.5b69a5954abf5526c803.jpg",
+    "static/media/p2.jpg": "/Abdulrahman-Muhammad/static/media/p2.27c9c770802361346844.jpg",
+    "static/media/p3.jpg": "/Abdulrahman-Muhammad/static/media/p3.9bc533eb819a00d747b2.jpg",
+    "static/media/portfolio1.jpg": "/Abdulrahman-Muhammad/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Abdulrahman-Muhammad/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Abdulrahman-Muhammad/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/Abdulrahman-Muhammad/index.html",
+    "main.aee26ee8.css.map": "/Abdulrahman-Muhammad/static/css/main.aee26ee8.css.map",
+    "main.6d5f9564.js.map": "/Abdulrahman-Muhammad/static/js/main.6d5f9564.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aee26ee8.css",
+    "static/js/main.6d5f9564.js"
+  ]
+}
