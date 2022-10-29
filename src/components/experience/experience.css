@@ -58,7 +58,10 @@
     gap: 1rem;
   }
   .experience___container > div {
-    width: 100%;
-    margin: 0 auto;
+    /* width: 90%; */
+    margin: 0 40px 0 0;
+  }
+  .experience___content {
+    gap: 1.5rem;
   }
 }
