@@ -13,7 +13,7 @@ const Header = () => {
           <TypeAnimation
             sequence={[`Hello I'm`, 3000]}
             wrapper="div"
-            cursor={true}
+            cursor={false}
           />
         </h5>
 
@@ -29,7 +29,7 @@ const Header = () => {
           <TypeAnimation
             sequence={[2000, 'Frontend Developer', 15000]}
             wrapper="div"
-            cursor={true}
+            cursor={false}
           />
         </h5>
 
