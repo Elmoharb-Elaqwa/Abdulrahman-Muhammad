@@ -51,6 +51,20 @@ const Portfolio = () => {
       github: 'https://github.com/Elmoharb-Elaqwa/JavaScript-Template',
       site: 'https://elmoharb-elaqwa.github.io/JavaScript-Template/',
     },
+    {
+      id: 7,
+      image: IMG1,
+      title: 'Linked Site (for PC only) ',
+      github: 'https://github.com/Elmoharb-Elaqwa/',
+      site: 'https://linkedin-d9b92.web.app/',
+    },
+    {
+      id: 8,
+      image: IMG2,
+      title: 'Gmail Site (for PC only) ',
+      github: 'https://github.com/Elmoharb-Elaqwa/',
+      site: 'https://app-86d1c.web.app/',
+    },
   ];
   return (
     <section id="portfolio">
